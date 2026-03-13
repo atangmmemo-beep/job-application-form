@@ -16,6 +16,8 @@ alert("Please select at least one area of interest.");
 return false;
 }
 
+alert("Form submitted successfully");
+
 return true;
 
 }
